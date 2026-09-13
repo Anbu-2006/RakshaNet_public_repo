@@ -3,6 +3,9 @@
 ## Title
 **Predictive Cash-Out Interception Framework for Rapid Cybercrime Distress Intake & Mule Account Freezes**
 
+> [!TIP]
+> 📺 **Watch the Complete 9:54 System Architecture & Case Simulation:** [YouTube Video Walkthrough (Case 2024-0891)](https://youtu.be/Hgh64gOu5ug)
+
 ---
 
 ### 1. The Operational Crisis in Indian Cybercrime Enforcement

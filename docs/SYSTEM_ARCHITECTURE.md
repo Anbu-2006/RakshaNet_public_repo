@@ -1,5 +1,8 @@
 # RakshaNet: System Architecture & Dual-Portal Ecosystem
 
+> [!TIP]
+> 📺 **Watch the Complete 9:54 System Architecture & Case Simulation:** [YouTube Video Walkthrough (Case 2024-0891)](https://youtu.be/Hgh64gOu5ug)
+
 ## 1. Architectural Blueprint
 
 RakshaNet is architected as an event-driven, high-speed cyber-forensic pipeline designed for sub-second telemetry and zero-latency interbank signaling.

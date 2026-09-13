@@ -5,6 +5,9 @@
 </p>
 
 <p align="center">
+  <a href="https://youtu.be/Hgh64gOu5ug" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Watch_Video_Walkthrough-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Watch on YouTube" />
+  </a>&nbsp;
   <img src="https://img.shields.io/badge/SIH_2024-PS_26184-0284c7?style=flat-square&logo=target" alt="SIH PS 26184" />&nbsp;
   <img src="https://img.shields.io/badge/BNSS_2023-Sec_106-059669?style=flat-square&logo=shield" alt="Section 106 BNSS" />&nbsp;
   <img src="https://img.shields.io/badge/ISO_20022-camt.056-7c3aed?style=flat-square&logo=currys" alt="ISO 20022" />&nbsp;
@@ -20,6 +23,7 @@
 </p>
 
 <p align="center">
+  <a href="#-complete-video-walkthrough--case-simulation">▶️ Video Walkthrough</a> &nbsp;•&nbsp;
   <a href="#-problem-statement-26184">Problem Statement</a> &nbsp;•&nbsp;
   <a href="#-conventional-1930-vs-rakshanet-drawbacks--breakthroughs">Conventional vs RakshaNet</a> &nbsp;•&nbsp;
   <a href="#-the-15-minute-golden-window">15-Min Golden Window</a> &nbsp;•&nbsp;
@@ -33,6 +37,38 @@
 </p>
 
 ---
+
+## 📺 Complete Video Walkthrough & Case Simulation
+
+<p align="center">
+  <a href="https://youtu.be/Hgh64gOu5ug" target="_blank">
+    <img src="https://img.youtube.com/vi/Hgh64gOu5ug/maxresdefault.jpg" alt="RakshaNet Complete System Architecture & Case Walkthrough" width="100%" style="border-radius: 10px; border: 1px solid #30363d;" />
+  </a>
+</p>
+
+<p align="center">
+  ▶️ <strong><a href="https://youtu.be/Hgh64gOu5ug" target="_blank">Click here to watch the full 9:54 System Architecture &amp; Case Simulation on YouTube</a></strong>
+</p>
+
+<details>
+<summary><strong>⏱️ Click to view Video Chapters &amp; Timestamps (00:00 – 09:54)</strong></summary>
+
+| Timestamp | Chapter Topic | Architectural &amp; Forensic Highlights |
+| :---: | :--- | :--- |
+| `00:00` | **The Digital Arrest Crisis** | Psychological coercion, fake CBI/NCB officers, forged Supreme Court arrest warrants |
+| `00:45` | **Conventional 1930 Latency** | Why manual human handwriting &amp; typing cannot match automated bot fund splits |
+| `01:30` | **The 15-Minute Golden Window** | Cash-out barrier: asset recovery drops from 88% down to &lt; 2% at ATM dispense |
+| `02:30` | **Phase 1: Real-Time Audio NLP** | Web Speech API streaming, financial NER, zero disk storage (**DPDP Act 2023** compliant) |
+| `03:30` | **Phase 2: Multi-Bank Graph Tracing** | In-memory NetworkX directed graph calculating multi-bank fan-outs in **&lt; 420ms** |
+| `04:00` | **Bypassing the KYC Fallacy** | Bypasses fake rural Aadhaar addresses; uses live IMSI/CDR cell tower hardware pings |
+| `05:00` | **Spatial Kinematics &amp; ATM Ranking** | Haversine Ball Tree (11,000 ATMs $\rightarrow$ 47 nodes in 8ms) + GBDT ranking (**94.2% top-3**) |
+| `05:50` | **Statutory Section 106 BNSS 2023** | One-click statutory legal freeze protecting bank compliance officers |
+| `06:25` | **Machine-to-Machine Banking Intercept** | Automated **ISO 20022 `camt.056`** webhook; ATM terminal displays **Error 57** |
+| `07:05` | **Case 2024-0891 End-to-End Simulation** | ₹20 Lakh digital arrest collapsed from 24 hours to 3 minutes; suspect caught with 14 cloned cards |
+| `08:30` | **Courtroom Explainability &amp; BSA 2023** | SHAP attribution weights defeating "black box" claims; SHA-256 digital evidentiary dossiers |
+| `09:30` | **Sovereign Trust Restored** | Preserving citizen life savings in the bank vault before physical cash-out |
+
+</details>
 
 ## 🎯 Problem Statement 26184
 
@@ -283,6 +319,7 @@ Rather than sending unstructured emails or scanned PDFs, RakshaNet constructs st
 
 | Document / Asset | Format | Description |
 | :--- | :---: | :--- |
+| [**Official Video Walkthrough**](https://youtu.be/Hgh64gOu5ug) | `YouTube (9:54)` | Complete architecture debrief, case 2024-0891 simulation, and ATM interception |
 | [**Problem Statement 26184 Deep Dive**](docs/PROBLEM_STATEMENT_26184.md) | `.md` | Comprehensive analysis of the operational bottlenecks and RakshaNet solution |
 | [**The 15-Minute Golden Window Analysis**](docs/15_MINUTE_GOLDEN_WINDOW.md) | `.md` | Mathematical velocity model, decay curves, and tactical interception timing |
 | [**System Architecture & Standards**](docs/SYSTEM_ARCHITECTURE.md) | `.md` | Complete dual-portal specification, API contracts, and ISO 20022 schemas |

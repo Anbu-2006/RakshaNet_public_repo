@@ -220,17 +220,18 @@ Rather than sending unstructured emails or scanned PDFs, RakshaNet constructs st
 ============================= test session starts =============================
 platform win32 -- Python 3.13.14, pytest-9.0.3, pluggy-1.6.0
 rootdir: RakshaNet
-collected 51 items
+collected 55 items
 
-backend\tests\test_api_contracts.py ..........                           [ 19%]
-backend\tests\test_audio_ner.py ......                                   [ 31%]
-backend\tests\test_bank_tracer.py ......                                 [ 43%]
-backend\tests\test_live_call_intake.py ....                              [ 50%]
-backend\tests\test_realworld_cashout_predictor.py .....                  [ 60%]
-backend\tests\test_simulated_db_endpoints.py .....                       [ 70%]
+backend\tests\test_dual_groq_failover.py ....                            [  7%]
+backend\tests\test_api_contracts.py ..........                           [ 25%]
+backend\tests\test_audio_ner.py ......                                   [ 36%]
+backend\tests\test_bank_tracer.py ......                                 [ 47%]
+backend\tests\test_live_call_intake.py ....                              [ 54%]
+backend\tests\test_realworld_cashout_predictor.py .....                  [ 63%]
+backend\tests\test_simulated_db_endpoints.py .....                       [ 72%]
 ml\tests\test_heuristics.py ...............                              [100%]
 
-======================= 51 passed, 1 warning in 43.99s ========================
+======================= 55 passed, 1 warning in 45.38s ========================
 ```
 
 ---

@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SIH%202024-PS%2026184-0284c7?style=flat-square&logo=target" alt="SIH PS 26184" />
-  <img src="https://img.shields.io/badge/BNSS%202023-Section%20106-059669?style=flat-square&logo=shield" alt="Section 106 BNSS" />
-  <img src="https://img.shields.io/badge/ISO%2020022-camt.056-7c3aed?style=flat-square&logo=currys" alt="ISO 20022" />
-  <img src="https://img.shields.io/badge/Tests-51%2F51%20Passed-10b981?style=flat-square&logo=checkmarx" alt="51 Tests Passed" />
+  <img src="https://img.shields.io/badge/SIH_2024-PS_26184-0284c7?style=flat-square&logo=target" alt="SIH PS 26184" />&nbsp;
+  <img src="https://img.shields.io/badge/BNSS_2023-Sec_106-059669?style=flat-square&logo=shield" alt="Section 106 BNSS" />&nbsp;
+  <img src="https://img.shields.io/badge/ISO_20022-camt.056-7c3aed?style=flat-square&logo=currys" alt="ISO 20022" />&nbsp;
+  <img src="https://img.shields.io/badge/Tests-51%2F51_Passed-10b981?style=flat-square&logo=checkmarx" alt="51 Tests Passed" />&nbsp;
   <img src="https://img.shields.io/badge/License-MIT-38bdf8?style=flat-square" alt="License MIT" />
 </p>
 

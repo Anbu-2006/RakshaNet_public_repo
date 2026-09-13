@@ -208,8 +208,6 @@ Rather than sending unstructured emails or scanned PDFs, RakshaNet constructs st
 
 | Document / Asset | Format | Description |
 | :--- | :---: | :--- |
-| [**Smart India Hackathon Presentation Deck**](docs/RakshaNet_SIH_Presentation.pptx) | `.pptx` | Official pitch presentation covering architecture, benchmarks, and police workflow |
-| [**Official Datasets Master Catalog**](docs/RakshaNet_Datasets_Master_Catalog.pdf) | `.pdf` | Complete reference catalog of all 6 training, geographic, and benchmark datasets |
 | [**Problem Statement 26184 Deep Dive**](docs/PROBLEM_STATEMENT_26184.md) | `.md` | Comprehensive analysis of the operational bottlenecks and RakshaNet solution |
 | [**The 15-Minute Golden Window Analysis**](docs/15_MINUTE_GOLDEN_WINDOW.md) | `.md` | Mathematical velocity model, decay curves, and tactical interception timing |
 | [**System Architecture & Standards**](docs/SYSTEM_ARCHITECTURE.md) | `.md` | Complete dual-portal specification, API contracts, and ISO 20022 schemas |

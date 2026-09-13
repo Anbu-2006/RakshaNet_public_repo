@@ -1,0 +1,23 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+ehthumbs.db
+[Nn]onprofit.ini
+
+# Environment variables & secrets (NEVER commit secrets)
+.env
+.env.*
+*.env
+*.pem
+*.key
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Temporary & cache
+tmp/
+temp/
+*.log

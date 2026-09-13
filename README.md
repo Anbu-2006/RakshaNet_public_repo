@@ -25,13 +25,8 @@
   <a href="#-dual-portal-ecosystem">Dual Portals</a> &nbsp;•&nbsp;
   <a href="#-operational-showcase--visual-evidence">Visual Evidence</a> &nbsp;•&nbsp;
   <a href="#-statutory--banking-standards">Statutory Law</a> &nbsp;•&nbsp;
-  <a href="#-official-sih-deliverables">Deliverables</a> &nbsp;•&nbsp;
-  <a href="docs/architecture_and_deepdive/RakshaNet_Complete_Architecture_Manual.pdf"><b>📄 Architecture PDF</b></a>
+  <a href="#-official-sih-deliverables">Deliverables</a>
 </p>
-
-> [!TIP]
-> 📄 **Official Architecture & AI Forensics Deep-Dive Manual Available:**  
-> Download the publication-grade [RakshaNet Complete Architecture Manual (PDF)](docs/architecture_and_deepdive/RakshaNet_Complete_Architecture_Manual.pdf) or view the [Full-Text Technical Specification (Markdown)](docs/architecture_and_deepdive/RakshaNet_Complete_Architecture_Manual.md) covering the 6-layer pipeline, prototype vs. production comparison, mathematical models, and Section 106 BNSS statutory automation.
 
 ---
 
